@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Kadir Lofca/Quick Character/Showcase/Scenes/scn_Showcase.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
